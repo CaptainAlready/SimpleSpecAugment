@@ -4,6 +4,8 @@ Short and simple implementation of SpecAugment using numpy and functional progra
 
 **Original SpecAugment Paper** : https://doi.org/10.48550/arXiv.1904.08779
 
+**Installation** : Clone the repository and run `pip install .` inside the projects directory.
+
 **Example of usage**
 
 Librosa is required to run this example :
