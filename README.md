@@ -9,7 +9,7 @@ Short and simple implementation of SpecAugment using numpy and functional progra
 **Example of usage**
 
 Librosa is required to run this example :
-`pip install Librosa`
+`pip install librosa`
 
 ```python
 import numpy as np
